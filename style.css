@@ -34,6 +34,12 @@ ul,li{
     margin: 30px;
 }
 
+ul,
+li,
+a{
+    display: flex;
+}
+
 
 
 .link-font {
