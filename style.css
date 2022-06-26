@@ -1,3 +1,58 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 .home-background {
-    background-color: aquamarine;
+    background-color: rgba(206, 231, 116, 0.753);
+    align-content: center;
+}
+
+.main-header,
+.small-header {
+    text-align: center;
+    color: hsla(292, 66%, 7%, 0.658);
+}
+
+.main-header {
+    font-size: 50px;
+}
+
+.small-header {
+    font-size: 38px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+ul,li{
+    margin: 30px;
+}
+
+
+
+.link-font {
+    box-sizing: border-box;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.image-size {
+    height: auto;
+    width: 250px;
+    border: solid;
+    border-radius: 15px;
+    border-color: rgb(105, 39, 39);
+    margin: 10px;
+    display: flex;
+}
+
+a {
+    color: hsla(292, 66%, 7%, 0.658);
 }
