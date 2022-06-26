@@ -8,3 +8,6 @@ Okay so far, I've created a link to a recipe page that has an image on it undern
 I now have a list of recipes on the index page that I can click to go to whichever recipe that I want. I even added a link to go back to the index page at the bottom of the recipe pages.
 
 I have now successfully pushed my project to Github. This was a great experience on building a basic recipe website!
+
+Added styling to homepage. Having trouble with with making the list of recipes, well pictures shrink with the page, or adujust to fit inside the screen.
+Using CSS.
