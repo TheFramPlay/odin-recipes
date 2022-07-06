@@ -1,9 +1,8 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-
-*, *::before, *::after {
-    box-sizing: inherit;
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 .home-background {
@@ -38,7 +37,8 @@ ul,li{
 ul,
 li,
 a{
-    display: flex;
+    display: inline-flex;
+    justify-content: center;
 }
 
 
